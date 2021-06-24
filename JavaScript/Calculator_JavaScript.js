@@ -53,7 +53,7 @@ const Perform_Calculation = {
     };
 
 
-function calculator_Reset() {
+function Calculator_Reset() {
     Calculator.Display_Value = '0';
     Calculator.First_Operand = null;
     Calculator.Wait_Second_Operand = false;
